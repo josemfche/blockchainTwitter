@@ -24,6 +24,11 @@
   color: #a6a6a6;
   margin-top: 16px;
 }
+.howto {
+  text-align: left;
+  color: #a6a6a6;
+  margin-top: 16px;
+}
 
 .waveButton {
   cursor: pointer;
